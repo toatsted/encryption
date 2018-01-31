@@ -1,6 +1,6 @@
 # encryption
 encrypt.py = source code
 
-Crypto = required package
+Crypto = required 'pycryptodome' package
 
-encrypt.exe = executable with encrypt.py and Crypto package
+encrypt.exe = executable with encrypt.py and Crypto package included
