@@ -16,7 +16,6 @@ import ntpath
 # PasswordWindow object
 # Creates a window containing an entry and submit button to return a password
 
-
 class PasswordWindow(tkinter.Tk):
 
     def __init__(self, parent):
